@@ -34,8 +34,10 @@ Frontend
 Razor Pages & Bootstrap – UI components and styling.
 Custom Template – A pre-designed frontend template was used and modified to align with the platform's branding, layout, and functional requirements.
 
+
 Database
 
 SQL Server – Relational database to store user data, course information, and enrollments.
 
-
+# 🎥 Project Overview
+https://youtu.be/00uLr7oiYSc?si=T5Bp7-C3mjGhIv61
